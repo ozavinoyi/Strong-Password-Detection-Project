@@ -3,4 +3,4 @@
 ## Installation
 run `python install -r requirements.txt`
 
-![pythondev_cv](https://github.com/ozavinoyi/Strong-Password-Detection-Project/assets/46389749/12bd59d2-f6d9-48b3-93e4-bd774626cf18.png)
+![pythondev_cv](https://github.com/ozavinoyi/Strong-Password-Detection-Project/assets/46389749/8cb38e9a-9365-4202-8900-cd2cd536b22c)
